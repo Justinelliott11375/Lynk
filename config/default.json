@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://Justin1234:Justin1234@lynk-8mfkk.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://Justin1234:Justin1234@lynk-8mfkk.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "lynkTokenSecret"
 }
